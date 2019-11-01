@@ -1,0 +1,17 @@
+{
+  "courseName": "Json API de .NET Core",
+  "language": "C#",
+  "author": {
+    "firstName": "Hamida",
+    "lastName": "Rebai"
+  },
+  "publishedAt": "2012-03-13T12:30:00.000Z",
+  "publishedYear": 2014,
+  "isActive": true,
+  "isRetired": false,
+  "tags": [
+    "aspnet",
+    "C#",
+    "dotnet"
+  ]
+}
